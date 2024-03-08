@@ -1,1 +1,1 @@
-java-app-ci-cd
+java-app-ci
