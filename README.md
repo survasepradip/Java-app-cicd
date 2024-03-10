@@ -1,1 +1,1 @@
-java-app-ci
+java-app-cicd
