@@ -15,6 +15,14 @@
         <spring-boot.version>2.6.4</spring-boot.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
     </properties>
+
+   <distributionManagement>
+    <repository>
+        <id>Java-app-cicd</id>
+        <url>https://github.com/survasepradip/Java-app-cicd.git</url>
+    </repository>
+    </distributionManagement>
+
     
     <dependencies>
         <!-- Spring Boot Starter -->
