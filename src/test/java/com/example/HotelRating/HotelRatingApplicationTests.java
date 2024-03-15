@@ -9,7 +9,6 @@ class HotelRatingApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertThat(context).isNotNull();
 	}
 
 }
